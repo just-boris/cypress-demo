@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cypress": "^3.4.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "mocha-allure-reporter": "^1.4.0"
   },
   "devDependencies": {},
